@@ -1,0 +1,59 @@
+.container{
+    color: black;
+}
+.container-footer{
+    color: white;;
+}
+
+.nav-link{
+    color: white;
+}
+
+#form{
+    display: flex;
+    justify-content: center;
+}
+#form-view{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#edit-button{
+    align-self: center;
+    max-width: 50px;
+}
+#delete-button{
+    margin-top: 15px;
+    align-self: center;
+    max-width: 50px;
+    margin-bottom: 25px;
+}
+
+.form-group{
+    padding: 10px;
+}
+.btn-primary{
+margin-top: 10px;
+}
+
+#form-section{
+    margin: 20px 20px;
+    border: 2px black solid;
+    border-radius: 25px;
+}
+#view-section{
+    margin: 20px 20px;
+    border: 2px green solid;
+    border-radius: 25px;
+}
+
+#link{
+    text-decoration: none;
+    color: white;
+}
+
+.btn-primary{
+    margin-top: 0%;
+}
+
+
